@@ -9,8 +9,8 @@ import PackageDescription
 let targets: [Target] = [
     .binaryTarget(
         name: "Turf",
-        url: "https://github.com/mapbox/turf-swift/releases/download/v4.0.0/Turf.xcframework.zip",
-        checksum: "ce43384a6f875ab4becdd6bdb7ca60447e5e9133f2acf325dc57be381b52a34c"
+        url: "https://distribution.accuterra.com/com/mapbox/turf/4.0.0/Turf.xcframework.zip",
+        checksum: "56cb012f72e54d048c8255f0d2c7f4cc8d81d788a2760e03fbbc9655b71b6c54"
     )
 ]
 #else
