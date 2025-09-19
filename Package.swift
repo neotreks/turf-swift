@@ -9,7 +9,7 @@ import PackageDescription
 let targets: [Target] = [
     .binaryTarget(
         name: "Turf",
-        url: "https://distribution.accuterra.com/com/mapbox/turf/4.0.0/Turf.xcframework.zip",
+        url: "https://distribution.accuterra.com/com/accuterra/mapbox/turf/4.0.0/Turf.xcframework.zip",
         checksum: "56cb012f72e54d048c8255f0d2c7f4cc8d81d788a2760e03fbbc9655b71b6c54"
     )
 ]
